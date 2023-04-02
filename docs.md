@@ -1,4 +1,5 @@
 // create a digital clock by shell script
+
 $ date 
 $ date +%T
 $ date +%T; sleep 1s;
